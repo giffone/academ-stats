@@ -1,0 +1,1631 @@
+{
+	"Period": "Jan24 - May24",
+	"Cadets": [
+		{
+			"Personal": {
+				"ID": 870,
+				"Login": "aabdikha",
+				"FullName": "Aibek Abdikhalyk",
+				"Age": 23,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine23sep",
+					"Color": "#9a6227"
+				},
+				"Level": 21,
+				"XPTotal": 421750
+			},
+			"Hours": {
+				"Total": 100,
+				"Month": [
+					{
+						"Year": "2024",
+						"Month": "january",
+						"Hours": 50
+					},
+					{
+						"Year": "2024",
+						"Month": "february",
+						"Hours": 50
+					}
+				]
+			},
+			"Journey": {
+				"Checkpoint": [
+					{
+						"ID": 76,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-02-08T12:01:00.043637Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102037,
+										"Name": "ispowerof2",
+										"XP": 100
+									},
+									{
+										"ID": 101971,
+										"Name": "swaplast",
+										"XP": 200
+									},
+									{
+										"ID": 102016,
+										"Name": "paramcount",
+										"XP": 300
+									},
+									{
+										"ID": 102006,
+										"Name": "lastword",
+										"XP": 400
+									},
+									{
+										"ID": 102023,
+										"Name": "rpncalc",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 77,
+						"Name": "Checkpoint",
+						"XPTotal": 100,
+						"CreatedAt": "2024-02-15T05:01:00.949835Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102037,
+										"Name": "ispowerof2",
+										"XP": 100
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 78,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-02-29T05:01:00.276351Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102011,
+										"Name": "reduceint",
+										"XP": 100
+									},
+									{
+										"ID": 101991,
+										"Name": "replaceeven",
+										"XP": 200
+									},
+									{
+										"ID": 101961,
+										"Name": "retainfirsthalf",
+										"XP": 300
+									},
+									{
+										"ID": 102006,
+										"Name": "lastword",
+										"XP": 400
+									},
+									{
+										"ID": 102023,
+										"Name": "rpncalc",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 80,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-03-14T06:01:00.478231Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101965,
+										"Name": "setspace",
+										"XP": 100
+									},
+									{
+										"ID": 102007,
+										"Name": "inter",
+										"XP": 200
+									},
+									{
+										"ID": 101987,
+										"Name": "sumthemall",
+										"XP": 300
+									},
+									{
+										"ID": 102000,
+										"Name": "itoabase",
+										"XP": 400
+									},
+									{
+										"ID": 102023,
+										"Name": "rpncalc",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 81,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-03-28T13:01:00.093129Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102028,
+										"Name": "wdmatch",
+										"XP": 100
+									},
+									{
+										"ID": 102022,
+										"Name": "revwstr",
+										"XP": 200
+									},
+									{
+										"ID": 101998,
+										"Name": "expandstr",
+										"XP": 300
+									},
+									{
+										"ID": 102001,
+										"Name": "atoibase",
+										"XP": 400
+									},
+									{
+										"ID": 102025,
+										"Name": "brainfuck",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 82,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-04-04T06:01:00.487191Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102009,
+										"Name": "max",
+										"XP": 100
+									},
+									{
+										"ID": 102022,
+										"Name": "revwstr",
+										"XP": 200
+									},
+									{
+										"ID": 102019,
+										"Name": "hiddenp",
+										"XP": 300
+									},
+									{
+										"ID": 102006,
+										"Name": "lastword",
+										"XP": 400
+									},
+									{
+										"ID": 102040,
+										"Name": "listremoveif",
+										"XP": 500
+									},
+									{
+										"ID": 102034,
+										"Name": "sortwordarr",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					}
+				],
+				"Module": [
+					{
+						"ID": 66,
+						"Name": "Module",
+						"XPTotal": 407650,
+						"CreatedAt": "2024-02-07T11:51:00.891343Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "Go",
+								"Tasks": [
+									{
+										"ID": 101759,
+										"Name": "go-reloaded",
+										"XP": 5000
+									},
+									{
+										"ID": 101956,
+										"Name": "tetris-optimizer",
+										"XP": 5000
+									},
+									{
+										"ID": 101753,
+										"Name": "ascii-art",
+										"XP": 6125
+									},
+									{
+										"ID": 101767,
+										"Name": "ascii-art-fs",
+										"XP": 6125
+									},
+									{
+										"ID": 101777,
+										"Name": "ascii-art-output",
+										"XP": 6125
+									},
+									{
+										"ID": 101778,
+										"Name": "ascii-art-justify",
+										"XP": 6125
+									},
+									{
+										"ID": 101779,
+										"Name": "ascii-art-reverse",
+										"XP": 6125
+									},
+									{
+										"ID": 101808,
+										"Name": "ascii-art-color",
+										"XP": 6125
+									},
+									{
+										"ID": 101755,
+										"Name": "ascii-art-web",
+										"XP": 9200
+									},
+									{
+										"ID": 101756,
+										"Name": "ascii-art-web-stylize",
+										"XP": 9200
+									},
+									{
+										"ID": 101780,
+										"Name": "ascii-art-web-dockerize",
+										"XP": 9200
+									},
+									{
+										"ID": 101781,
+										"Name": "ascii-art-web-export-file",
+										"XP": 9200
+									},
+									{
+										"ID": 101758,
+										"Name": "net-cat",
+										"XP": 12250
+									},
+									{
+										"ID": 101782,
+										"Name": "groupie-tracker-filters",
+										"XP": 12250
+									},
+									{
+										"ID": 101783,
+										"Name": "groupie-tracker-geolocalization",
+										"XP": 12250
+									},
+									{
+										"ID": 101784,
+										"Name": "groupie-tracker-visualizations",
+										"XP": 12250
+									},
+									{
+										"ID": 101785,
+										"Name": "groupie-tracker-search-bar",
+										"XP": 12250
+									},
+									{
+										"ID": 101754,
+										"Name": "push-swap",
+										"XP": 18375
+									},
+									{
+										"ID": 101948,
+										"Name": "forum-authentication",
+										"XP": 19100
+									},
+									{
+										"ID": 101809,
+										"Name": "groupie-tracker",
+										"XP": 24500
+									},
+									{
+										"ID": 101810,
+										"Name": "lem-in",
+										"XP": 34375
+									},
+									{
+										"ID": 101941,
+										"Name": "forum",
+										"XP": 76250
+									}
+								]
+							},
+							{
+								"ID": 0,
+								"Name": "other",
+								"Tasks": [
+									{
+										"ID": 101943,
+										"Name": "guess-it-1",
+										"XP": 5000
+									},
+									{
+										"ID": 101942,
+										"Name": "math-skills",
+										"XP": 10000
+									}
+								]
+							},
+							{
+								"ID": 0,
+								"Name": "c",
+								"Tasks": [
+									{
+										"ID": 101955,
+										"Name": "atm-management-system",
+										"XP": 75250
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"Personal": {
+				"ID": 634,
+				"Login": "aolzhass",
+				"FullName": "Akhmediyar  Olzhassov",
+				"Age": 20,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine23sep",
+					"Color": "#9a6227"
+				},
+				"Level": 21,
+				"XPTotal": 376900
+			},
+			"Hours": {
+				"Total": 200,
+				"Month": [
+					{
+						"Year": "2024",
+						"Month": "january",
+						"Hours": 50
+					},
+					{
+						"Year": "2024",
+						"Month": "february",
+						"Hours": 50
+					},
+					{
+						"Year": "2024",
+						"Month": "march",
+						"Hours": 50
+					},
+					{
+						"Year": "2024",
+						"Month": "may",
+						"Hours": 50
+					}
+				]
+			},
+			"Journey": {
+				"Checkpoint": [
+					{
+						"ID": 76,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-02-08T12:01:00.043637Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102028,
+										"Name": "wdmatch",
+										"XP": 100
+									},
+									{
+										"ID": 102004,
+										"Name": "doop",
+										"XP": 200
+									},
+									{
+										"ID": 102014,
+										"Name": "foldint",
+										"XP": 300
+									},
+									{
+										"ID": 102001,
+										"Name": "atoibase",
+										"XP": 400
+									},
+									{
+										"ID": 102003,
+										"Name": "options",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 77,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-02-15T05:01:00.949835Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101992,
+										"Name": "cameltosnakecase",
+										"XP": 100
+									},
+									{
+										"ID": 102010,
+										"Name": "chunk",
+										"XP": 200
+									},
+									{
+										"ID": 102016,
+										"Name": "paramcount",
+										"XP": 300
+									},
+									{
+										"ID": 102018,
+										"Name": "tabmult",
+										"XP": 400
+									},
+									{
+										"ID": 102023,
+										"Name": "rpncalc",
+										"XP": 500
+									},
+									{
+										"ID": 102034,
+										"Name": "sortwordarr",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					}
+				],
+				"Module": [
+					{
+						"ID": 66,
+						"Name": "Module",
+						"XPTotal": 371300,
+						"CreatedAt": "2024-02-07T11:51:00.891343Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "Go",
+								"Tasks": [
+									{
+										"ID": 101759,
+										"Name": "go-reloaded",
+										"XP": 5000
+									},
+									{
+										"ID": 101956,
+										"Name": "tetris-optimizer",
+										"XP": 5000
+									},
+									{
+										"ID": 101753,
+										"Name": "ascii-art",
+										"XP": 6125
+									},
+									{
+										"ID": 101767,
+										"Name": "ascii-art-fs",
+										"XP": 6125
+									},
+									{
+										"ID": 101777,
+										"Name": "ascii-art-output",
+										"XP": 6125
+									},
+									{
+										"ID": 101778,
+										"Name": "ascii-art-justify",
+										"XP": 6125
+									},
+									{
+										"ID": 101779,
+										"Name": "ascii-art-reverse",
+										"XP": 6125
+									},
+									{
+										"ID": 101808,
+										"Name": "ascii-art-color",
+										"XP": 6125
+									},
+									{
+										"ID": 101755,
+										"Name": "ascii-art-web",
+										"XP": 9200
+									},
+									{
+										"ID": 101756,
+										"Name": "ascii-art-web-stylize",
+										"XP": 9200
+									},
+									{
+										"ID": 101780,
+										"Name": "ascii-art-web-dockerize",
+										"XP": 9200
+									},
+									{
+										"ID": 101781,
+										"Name": "ascii-art-web-export-file",
+										"XP": 9200
+									},
+									{
+										"ID": 101758,
+										"Name": "net-cat",
+										"XP": 12250
+									},
+									{
+										"ID": 101783,
+										"Name": "groupie-tracker-geolocalization",
+										"XP": 12250
+									},
+									{
+										"ID": 101784,
+										"Name": "groupie-tracker-visualizations",
+										"XP": 12250
+									},
+									{
+										"ID": 101785,
+										"Name": "groupie-tracker-search-bar",
+										"XP": 12250
+									},
+									{
+										"ID": 101754,
+										"Name": "push-swap",
+										"XP": 18375
+									},
+									{
+										"ID": 101809,
+										"Name": "groupie-tracker",
+										"XP": 24500
+									},
+									{
+										"ID": 101810,
+										"Name": "lem-in",
+										"XP": 34375
+									},
+									{
+										"ID": 101941,
+										"Name": "forum",
+										"XP": 76250
+									}
+								]
+							},
+							{
+								"ID": 0,
+								"Name": "other",
+								"Tasks": [
+									{
+										"ID": 101942,
+										"Name": "math-skills",
+										"XP": 10000
+									}
+								]
+							},
+							{
+								"ID": 0,
+								"Name": "c",
+								"Tasks": [
+									{
+										"ID": 101955,
+										"Name": "atm-management-system",
+										"XP": 75250
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"Personal": {
+				"ID": 1254,
+				"Login": "famanbaye",
+				"FullName": "Farhad AMANBAYEV",
+				"Age": 34,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine23nov",
+					"Color": "#236916"
+				},
+				"Level": 17,
+				"XPTotal": 223725
+			},
+			"Hours": {
+				"Total": 0,
+				"Month": null
+			},
+			"Journey": {
+				"Checkpoint": [
+					{
+						"ID": 76,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-02-08T12:01:00.043637Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101975,
+										"Name": "displayp",
+										"XP": 100
+									},
+									{
+										"ID": 102004,
+										"Name": "doop",
+										"XP": 200
+									},
+									{
+										"ID": 102029,
+										"Name": "switchcase",
+										"XP": 300
+									},
+									{
+										"ID": 102000,
+										"Name": "itoabase",
+										"XP": 400
+									},
+									{
+										"ID": 102025,
+										"Name": "brainfuck",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 77,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-02-15T05:01:00.949835Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101977,
+										"Name": "returna",
+										"XP": 100
+									},
+									{
+										"ID": 101979,
+										"Name": "getalpha",
+										"XP": 200
+									},
+									{
+										"ID": 102026,
+										"Name": "addprimesum",
+										"XP": 300
+									},
+									{
+										"ID": 102001,
+										"Name": "atoibase",
+										"XP": 400
+									},
+									{
+										"ID": 102003,
+										"Name": "options",
+										"XP": 500
+									},
+									{
+										"ID": 102034,
+										"Name": "sortwordarr",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 78,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-02-29T05:01:00.276351Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102037,
+										"Name": "ispowerof2",
+										"XP": 100
+									},
+									{
+										"ID": 101964,
+										"Name": "bezero",
+										"XP": 200
+									},
+									{
+										"ID": 102026,
+										"Name": "addprimesum",
+										"XP": 300
+									},
+									{
+										"ID": 102001,
+										"Name": "atoibase",
+										"XP": 400
+									},
+									{
+										"ID": 102025,
+										"Name": "brainfuck",
+										"XP": 500
+									},
+									{
+										"ID": 102034,
+										"Name": "sortwordarr",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 79,
+						"Name": "Checkpoint",
+						"XPTotal": 2800,
+						"CreatedAt": "2024-03-07T13:01:00.633059Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101995,
+										"Name": "notdecimal",
+										"XP": 100
+									},
+									{
+										"ID": 101969,
+										"Name": "halfslice",
+										"XP": 200
+									},
+									{
+										"ID": 102029,
+										"Name": "switchcase",
+										"XP": 300
+									},
+									{
+										"ID": 102018,
+										"Name": "tabmult",
+										"XP": 400
+									},
+									{
+										"ID": 102040,
+										"Name": "listremoveif",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 80,
+						"Name": "Checkpoint",
+						"XPTotal": 2600,
+						"CreatedAt": "2024-03-14T06:01:00.478231Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101974,
+										"Name": "only1",
+										"XP": 100
+									},
+									{
+										"ID": 101963,
+										"Name": "hashcode",
+										"XP": 100
+									},
+									{
+										"ID": 102008,
+										"Name": "union",
+										"XP": 200
+									},
+									{
+										"ID": 102001,
+										"Name": "atoibase",
+										"XP": 400
+									},
+									{
+										"ID": 102040,
+										"Name": "listremoveif",
+										"XP": 500
+									},
+									{
+										"ID": 102034,
+										"Name": "sortwordarr",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					}
+				],
+				"Module": [
+					{
+						"ID": 66,
+						"Name": "Module",
+						"XPTotal": 209925,
+						"CreatedAt": "2024-02-07T11:51:00.891343Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "Go",
+								"Tasks": [
+									{
+										"ID": 101759,
+										"Name": "go-reloaded",
+										"XP": 5000
+									},
+									{
+										"ID": 101956,
+										"Name": "tetris-optimizer",
+										"XP": 5000
+									},
+									{
+										"ID": 101753,
+										"Name": "ascii-art",
+										"XP": 6125
+									},
+									{
+										"ID": 101767,
+										"Name": "ascii-art-fs",
+										"XP": 6125
+									},
+									{
+										"ID": 101777,
+										"Name": "ascii-art-output",
+										"XP": 6125
+									},
+									{
+										"ID": 101778,
+										"Name": "ascii-art-justify",
+										"XP": 6125
+									},
+									{
+										"ID": 101779,
+										"Name": "ascii-art-reverse",
+										"XP": 6125
+									},
+									{
+										"ID": 101808,
+										"Name": "ascii-art-color",
+										"XP": 6125
+									},
+									{
+										"ID": 101755,
+										"Name": "ascii-art-web",
+										"XP": 9200
+									},
+									{
+										"ID": 101756,
+										"Name": "ascii-art-web-stylize",
+										"XP": 9200
+									},
+									{
+										"ID": 101780,
+										"Name": "ascii-art-web-dockerize",
+										"XP": 9200
+									},
+									{
+										"ID": 101781,
+										"Name": "ascii-art-web-export-file",
+										"XP": 9200
+									},
+									{
+										"ID": 101757,
+										"Name": "my-ls-1",
+										"XP": 12250
+									},
+									{
+										"ID": 101758,
+										"Name": "net-cat",
+										"XP": 12250
+									},
+									{
+										"ID": 101782,
+										"Name": "groupie-tracker-filters",
+										"XP": 12250
+									},
+									{
+										"ID": 101783,
+										"Name": "groupie-tracker-geolocalization",
+										"XP": 12250
+									},
+									{
+										"ID": 101784,
+										"Name": "groupie-tracker-visualizations",
+										"XP": 12250
+									},
+									{
+										"ID": 101785,
+										"Name": "groupie-tracker-search-bar",
+										"XP": 12250
+									},
+									{
+										"ID": 101754,
+										"Name": "push-swap",
+										"XP": 18375
+									},
+									{
+										"ID": 101809,
+										"Name": "groupie-tracker",
+										"XP": 24500
+									}
+								]
+							},
+							{
+								"ID": 0,
+								"Name": "other",
+								"Tasks": [
+									{
+										"ID": 101942,
+										"Name": "math-skills",
+										"XP": 10000
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"Personal": {
+				"ID": 25,
+				"Login": "Akhmet_bayan",
+				"FullName": "Bayan Akhmet",
+				"Age": 23,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine23sep",
+					"Color": "#9a6227"
+				},
+				"Level": 16,
+				"XPTotal": 185100
+			},
+			"Hours": {
+				"Total": 0,
+				"Month": null
+			},
+			"Journey": {
+				"Checkpoint": [
+					{
+						"ID": 76,
+						"Name": "Checkpoint",
+						"XPTotal": 1000,
+						"CreatedAt": "2024-02-08T12:01:00.043637Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 102011,
+										"Name": "reduceint",
+										"XP": 100
+									},
+									{
+										"ID": 102012,
+										"Name": "findprevprime",
+										"XP": 200
+									},
+									{
+										"ID": 102029,
+										"Name": "switchcase",
+										"XP": 300
+									},
+									{
+										"ID": 102039,
+										"Name": "listsize",
+										"XP": 400
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 77,
+						"Name": "Checkpoint",
+						"XPTotal": 300,
+						"CreatedAt": "2024-02-15T05:01:00.949835Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101967,
+										"Name": "reversesecondhalf",
+										"XP": 100
+									},
+									{
+										"ID": 101985,
+										"Name": "removeduplicate",
+										"XP": 200
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 78,
+						"Name": "Checkpoint",
+						"XPTotal": 1000,
+						"CreatedAt": "2024-02-29T05:01:00.276351Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101975,
+										"Name": "displayp",
+										"XP": 100
+									},
+									{
+										"ID": 101994,
+										"Name": "canyoucount",
+										"XP": 200
+									},
+									{
+										"ID": 102019,
+										"Name": "hiddenp",
+										"XP": 300
+									},
+									{
+										"ID": 102006,
+										"Name": "lastword",
+										"XP": 400
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 79,
+						"Name": "Checkpoint",
+						"XPTotal": 2600,
+						"CreatedAt": "2024-03-07T13:01:00.633059Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101963,
+										"Name": "hashcode",
+										"XP": 100
+									},
+									{
+										"ID": 101972,
+										"Name": "onlyf",
+										"XP": 100
+									},
+									{
+										"ID": 101966,
+										"Name": "iscapitalized",
+										"XP": 200
+									},
+									{
+										"ID": 102006,
+										"Name": "lastword",
+										"XP": 400
+									},
+									{
+										"ID": 102003,
+										"Name": "options",
+										"XP": 500
+									},
+									{
+										"ID": 101960,
+										"Name": "repeatalpha",
+										"XP": 600
+									},
+									{
+										"ID": 102021,
+										"Name": "rostring",
+										"XP": 700
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 80,
+						"Name": "Checkpoint",
+						"XPTotal": 300,
+						"CreatedAt": "2024-03-14T06:01:00.478231Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101995,
+										"Name": "notdecimal",
+										"XP": 100
+									},
+									{
+										"ID": 102013,
+										"Name": "romannumbers",
+										"XP": 200
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 81,
+						"Name": "Checkpoint",
+						"XPTotal": 600,
+						"CreatedAt": "2024-03-28T13:01:00.093129Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101967,
+										"Name": "reversesecondhalf",
+										"XP": 100
+									},
+									{
+										"ID": 102027,
+										"Name": "printhex",
+										"XP": 200
+									},
+									{
+										"ID": 102019,
+										"Name": "hiddenp",
+										"XP": 300
+									}
+								]
+							}
+						]
+					}
+				],
+				"Module": [
+					{
+						"ID": 66,
+						"Name": "Module",
+						"XPTotal": 179300,
+						"CreatedAt": "2024-02-07T11:51:00.891343Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "Go",
+								"Tasks": [
+									{
+										"ID": 101759,
+										"Name": "go-reloaded",
+										"XP": 5000
+									},
+									{
+										"ID": 101956,
+										"Name": "tetris-optimizer",
+										"XP": 5000
+									},
+									{
+										"ID": 101753,
+										"Name": "ascii-art",
+										"XP": 6125
+									},
+									{
+										"ID": 101767,
+										"Name": "ascii-art-fs",
+										"XP": 6125
+									},
+									{
+										"ID": 101777,
+										"Name": "ascii-art-output",
+										"XP": 6125
+									},
+									{
+										"ID": 101778,
+										"Name": "ascii-art-justify",
+										"XP": 6125
+									},
+									{
+										"ID": 101779,
+										"Name": "ascii-art-reverse",
+										"XP": 6125
+									},
+									{
+										"ID": 101808,
+										"Name": "ascii-art-color",
+										"XP": 6125
+									},
+									{
+										"ID": 101755,
+										"Name": "ascii-art-web",
+										"XP": 9200
+									},
+									{
+										"ID": 101756,
+										"Name": "ascii-art-web-stylize",
+										"XP": 9200
+									},
+									{
+										"ID": 101780,
+										"Name": "ascii-art-web-dockerize",
+										"XP": 9200
+									},
+									{
+										"ID": 101781,
+										"Name": "ascii-art-web-export-file",
+										"XP": 9200
+									},
+									{
+										"ID": 101758,
+										"Name": "net-cat",
+										"XP": 12250
+									},
+									{
+										"ID": 101782,
+										"Name": "groupie-tracker-filters",
+										"XP": 12250
+									},
+									{
+										"ID": 101783,
+										"Name": "groupie-tracker-geolocalization",
+										"XP": 12250
+									},
+									{
+										"ID": 101784,
+										"Name": "groupie-tracker-visualizations",
+										"XP": 12250
+									},
+									{
+										"ID": 101785,
+										"Name": "groupie-tracker-search-bar",
+										"XP": 12250
+									},
+									{
+										"ID": 101809,
+										"Name": "groupie-tracker",
+										"XP": 24500
+									}
+								]
+							},
+							{
+								"ID": 0,
+								"Name": "other",
+								"Tasks": [
+									{
+										"ID": 101942,
+										"Name": "math-skills",
+										"XP": 10000
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"Personal": {
+				"ID": 1543,
+				"Login": "aabdrama",
+				"FullName": "Alikhan Abdraman",
+				"Age": 19,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine24jan",
+					"Color": "#404552"
+				},
+				"Level": 0,
+				"XPTotal": 200
+			},
+			"Hours": {
+				"Total": 0,
+				"Month": null
+			},
+			"Journey": {
+				"Checkpoint": [
+					{
+						"ID": 80,
+						"Name": "Checkpoint",
+						"XPTotal": 100,
+						"CreatedAt": "2024-03-14T06:01:00.478231Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101992,
+										"Name": "cameltosnakecase",
+										"XP": 100
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 81,
+						"Name": "Checkpoint",
+						"XPTotal": 100,
+						"CreatedAt": "2024-03-28T13:01:00.093129Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101975,
+										"Name": "displayp",
+										"XP": 100
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"Personal": {
+				"ID": 341,
+				"Login": "aabdykal",
+				"FullName": "Alnur Abdykalykov",
+				"Age": 21,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine23sep",
+					"Color": "#9a6227"
+				},
+				"Level": 0,
+				"XPTotal": 0
+			},
+			"Hours": {
+				"Total": 0,
+				"Month": null
+			},
+			"Journey": {
+
+			}
+		},
+		{
+			"Personal": {
+				"ID": 1181,
+				"Login": "tyergazy",
+				"FullName": "Temirlan Yergazyuly",
+				"Age": 23,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine23nov / piscine24jan",
+					"Color": "#404552"
+				},
+				"Level": 0,
+				"XPTotal": 200
+			},
+			"Hours": {
+				"Total": 0,
+				"Month": null
+			},
+			"Journey": {
+				"Checkpoint": [
+					{
+						"ID": 79,
+						"Name": "Checkpoint",
+						"XPTotal": 100,
+						"CreatedAt": "2024-03-07T13:01:00.633059Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101974,
+										"Name": "only1",
+										"XP": 100
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": 80,
+						"Name": "Checkpoint",
+						"XPTotal": 100,
+						"CreatedAt": "2024-03-14T06:01:00.478231Z",
+						"Languages": [
+							{
+								"ID": 0,
+								"Name": "go",
+								"Tasks": [
+									{
+										"ID": 101975,
+										"Name": "displayp",
+										"XP": 100
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		},
+		{
+			"Personal": {
+				"ID": 600,
+				"Login": "ukabdoll",
+				"FullName": "Uristem  Kabdolla",
+				"Age": 22,
+				"Gender": "Male",
+				"Admission": {
+					"Name": "piscine23sep",
+					"Color": "#9a6227"
+				},
+				"Level": 0,
+				"XPTotal": 0
+			},
+			"Hours": {
+				"Total": 0,
+				"Month": null
+			},
+			"Journey": {
+
+			}
+		}
+	]
+}

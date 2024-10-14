@@ -1,0 +1,77 @@
+syntax = "proto3";
+
+package excel_table;
+
+import "google/protobuf/timestamp.proto";
+
+option go_package = "/internal/repository/pb/excel_table";
+
+message TopCadetsResponse {
+    string message = 1;
+    bytes file = 2;
+}
+
+message TopCadetsRequest {
+    string period = 1;
+    repeated CadetData cadets = 2;
+}
+
+message CadetData {
+    Personal personal = 1;
+    Hours hours = 2;
+    map<string, EventList> journey = 3;
+}
+
+message Personal {
+    int32 id = 1;
+    string login = 2;
+    string full_name = 3;
+    int32 age = 4;
+    string gender = 5;
+    Admission admission = 6;
+    int32 level = 7;
+    int32 xp_total = 8;
+}
+
+message Admission {
+    string name = 1;
+    string color = 2;
+}
+
+message EventList {
+    repeated Event events = 1;
+}
+
+message Event {
+    int32 id = 1;
+    string name = 2;
+    int32 xp_total = 3;
+    google.protobuf.Timestamp created_at = 4;
+    repeated Language languages = 5;
+}
+
+message Language {
+    string name = 1;
+    repeated Task tasks = 2;
+}
+
+message Task {
+    int32 id = 1;
+    string name = 2;
+    int32 xp = 3;
+}
+
+message Hours {
+    int32 total = 1;
+    repeated MonthStr month = 2;
+}
+
+message MonthStr {
+    string year = 1;
+    string month = 2;
+    int32 hours = 3;
+}
+
+service ExcelTable {
+    rpc GetTopCadets(TopCadetsRequest) returns (TopCadetsResponse);
+}

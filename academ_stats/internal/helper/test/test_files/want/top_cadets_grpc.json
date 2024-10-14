@@ -1,0 +1,1681 @@
+{
+	"period": "Jan24 - May24",
+	"cadets": [
+		{
+			"personal": {
+				"id": 870,
+				"login": "aabdikha",
+				"full_name": "Aibek Abdikhalyk",
+				"age": 23,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine23sep",
+					"color": "#B15733"
+				},
+				"level": 21,
+				"xp_total": 421750
+			},
+			"hours": {
+				"total": 100,
+				"month": [
+					{
+						"year": "2024",
+						"month": "january",
+						"hours": 50
+					},
+					{
+						"year": "2024",
+						"month": "february",
+						"hours": 50
+					}
+				]
+			},
+			"journey": {
+				"Checkpoint": {
+					"events": [
+						{
+							"id": 76,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1707393660,
+								"nanos": 43637000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102037,
+											"name": "ispowerof2",
+											"xp": 100
+										},
+										{
+											"id": 101971,
+											"name": "swaplast",
+											"xp": 200
+										},
+										{
+											"id": 102016,
+											"name": "paramcount",
+											"xp": 300
+										},
+										{
+											"id": 102006,
+											"name": "lastword",
+											"xp": 400
+										},
+										{
+											"id": 102023,
+											"name": "rpncalc",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 77,
+							"name": "Checkpoint",
+							"xp_total": 100,
+							"created_at": {
+								"seconds": 1707973260,
+								"nanos": 949835000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102037,
+											"name": "ispowerof2",
+											"xp": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 78,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1709182860,
+								"nanos": 276351000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102011,
+											"name": "reduceint",
+											"xp": 100
+										},
+										{
+											"id": 101991,
+											"name": "replaceeven",
+											"xp": 200
+										},
+										{
+											"id": 101961,
+											"name": "retainfirsthalf",
+											"xp": 300
+										},
+										{
+											"id": 102006,
+											"name": "lastword",
+											"xp": 400
+										},
+										{
+											"id": 102023,
+											"name": "rpncalc",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 80,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1710396060,
+								"nanos": 478231000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101965,
+											"name": "setspace",
+											"xp": 100
+										},
+										{
+											"id": 102007,
+											"name": "inter",
+											"xp": 200
+										},
+										{
+											"id": 101987,
+											"name": "sumthemall",
+											"xp": 300
+										},
+										{
+											"id": 102000,
+											"name": "itoabase",
+											"xp": 400
+										},
+										{
+											"id": 102023,
+											"name": "rpncalc",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 81,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1711630860,
+								"nanos": 93129000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102028,
+											"name": "wdmatch",
+											"xp": 100
+										},
+										{
+											"id": 102022,
+											"name": "revwstr",
+											"xp": 200
+										},
+										{
+											"id": 101998,
+											"name": "expandstr",
+											"xp": 300
+										},
+										{
+											"id": 102001,
+											"name": "atoibase",
+											"xp": 400
+										},
+										{
+											"id": 102025,
+											"name": "brainfuck",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 82,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1712210460,
+								"nanos": 487191000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102009,
+											"name": "max",
+											"xp": 100
+										},
+										{
+											"id": 102022,
+											"name": "revwstr",
+											"xp": 200
+										},
+										{
+											"id": 102019,
+											"name": "hiddenp",
+											"xp": 300
+										},
+										{
+											"id": 102006,
+											"name": "lastword",
+											"xp": 400
+										},
+										{
+											"id": 102040,
+											"name": "listremoveif",
+											"xp": 500
+										},
+										{
+											"id": 102034,
+											"name": "sortwordarr",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				"Module": {
+					"events": [
+						{
+							"id": 66,
+							"name": "Module",
+							"xp_total": 407650,
+							"created_at": {
+								"seconds": 1707306660,
+								"nanos": 891343000
+							},
+							"languages": [
+								{
+									"name": "Go",
+									"tasks": [
+										{
+											"id": 101759,
+											"name": "go-reloaded",
+											"xp": 5000
+										},
+										{
+											"id": 101956,
+											"name": "tetris-optimizer",
+											"xp": 5000
+										},
+										{
+											"id": 101753,
+											"name": "ascii-art",
+											"xp": 6125
+										},
+										{
+											"id": 101767,
+											"name": "ascii-art-fs",
+											"xp": 6125
+										},
+										{
+											"id": 101777,
+											"name": "ascii-art-output",
+											"xp": 6125
+										},
+										{
+											"id": 101778,
+											"name": "ascii-art-justify",
+											"xp": 6125
+										},
+										{
+											"id": 101779,
+											"name": "ascii-art-reverse",
+											"xp": 6125
+										},
+										{
+											"id": 101808,
+											"name": "ascii-art-color",
+											"xp": 6125
+										},
+										{
+											"id": 101755,
+											"name": "ascii-art-web",
+											"xp": 9200
+										},
+										{
+											"id": 101756,
+											"name": "ascii-art-web-stylize",
+											"xp": 9200
+										},
+										{
+											"id": 101780,
+											"name": "ascii-art-web-dockerize",
+											"xp": 9200
+										},
+										{
+											"id": 101781,
+											"name": "ascii-art-web-export-file",
+											"xp": 9200
+										},
+										{
+											"id": 101758,
+											"name": "net-cat",
+											"xp": 12250
+										},
+										{
+											"id": 101782,
+											"name": "groupie-tracker-filters",
+											"xp": 12250
+										},
+										{
+											"id": 101783,
+											"name": "groupie-tracker-geolocalization",
+											"xp": 12250
+										},
+										{
+											"id": 101784,
+											"name": "groupie-tracker-visualizations",
+											"xp": 12250
+										},
+										{
+											"id": 101785,
+											"name": "groupie-tracker-search-bar",
+											"xp": 12250
+										},
+										{
+											"id": 101754,
+											"name": "push-swap",
+											"xp": 18375
+										},
+										{
+											"id": 101948,
+											"name": "forum-authentication",
+											"xp": 19100
+										},
+										{
+											"id": 101809,
+											"name": "groupie-tracker",
+											"xp": 24500
+										},
+										{
+											"id": 101810,
+											"name": "lem-in",
+											"xp": 34375
+										},
+										{
+											"id": 101941,
+											"name": "forum",
+											"xp": 76250
+										}
+									]
+								},
+								{
+									"name": "other",
+									"tasks": [
+										{
+											"id": 101943,
+											"name": "guess-it-1",
+											"xp": 5000
+										},
+										{
+											"id": 101942,
+											"name": "math-skills",
+											"xp": 10000
+										}
+									]
+								},
+								{
+									"name": "c",
+									"tasks": [
+										{
+											"id": 101955,
+											"name": "atm-management-system",
+											"xp": 75250
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"personal": {
+				"id": 634,
+				"login": "aolzhass",
+				"full_name": "Akhmediyar  Olzhassov",
+				"age": 20,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine23sep",
+					"color": "#B15733"
+				},
+				"level": 21,
+				"xp_total": 376900
+			},
+			"hours": {
+				"total": 200,
+				"month": [
+					{
+						"year": "2024",
+						"month": "january",
+						"hours": 50
+					},
+					{
+						"year": "2024",
+						"month": "february",
+						"hours": 50
+					},
+					{
+						"year": "2024",
+						"month": "march",
+						"hours": 50
+					},
+					{
+						"year": "2024",
+						"month": "may",
+						"hours": 50
+					}
+				]
+			},
+			"journey": {
+				"Checkpoint": {
+					"events": [
+						{
+							"id": 76,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1707393660,
+								"nanos": 43637000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102028,
+											"name": "wdmatch",
+											"xp": 100
+										},
+										{
+											"id": 102004,
+											"name": "doop",
+											"xp": 200
+										},
+										{
+											"id": 102014,
+											"name": "foldint",
+											"xp": 300
+										},
+										{
+											"id": 102001,
+											"name": "atoibase",
+											"xp": 400
+										},
+										{
+											"id": 102003,
+											"name": "options",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 77,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1707973260,
+								"nanos": 949835000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101992,
+											"name": "cameltosnakecase",
+											"xp": 100
+										},
+										{
+											"id": 102010,
+											"name": "chunk",
+											"xp": 200
+										},
+										{
+											"id": 102016,
+											"name": "paramcount",
+											"xp": 300
+										},
+										{
+											"id": 102018,
+											"name": "tabmult",
+											"xp": 400
+										},
+										{
+											"id": 102023,
+											"name": "rpncalc",
+											"xp": 500
+										},
+										{
+											"id": 102034,
+											"name": "sortwordarr",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				"Module": {
+					"events": [
+						{
+							"id": 66,
+							"name": "Module",
+							"xp_total": 371300,
+							"created_at": {
+								"seconds": 1707306660,
+								"nanos": 891343000
+							},
+							"languages": [
+								{
+									"name": "Go",
+									"tasks": [
+										{
+											"id": 101759,
+											"name": "go-reloaded",
+											"xp": 5000
+										},
+										{
+											"id": 101956,
+											"name": "tetris-optimizer",
+											"xp": 5000
+										},
+										{
+											"id": 101753,
+											"name": "ascii-art",
+											"xp": 6125
+										},
+										{
+											"id": 101767,
+											"name": "ascii-art-fs",
+											"xp": 6125
+										},
+										{
+											"id": 101777,
+											"name": "ascii-art-output",
+											"xp": 6125
+										},
+										{
+											"id": 101778,
+											"name": "ascii-art-justify",
+											"xp": 6125
+										},
+										{
+											"id": 101779,
+											"name": "ascii-art-reverse",
+											"xp": 6125
+										},
+										{
+											"id": 101808,
+											"name": "ascii-art-color",
+											"xp": 6125
+										},
+										{
+											"id": 101755,
+											"name": "ascii-art-web",
+											"xp": 9200
+										},
+										{
+											"id": 101756,
+											"name": "ascii-art-web-stylize",
+											"xp": 9200
+										},
+										{
+											"id": 101780,
+											"name": "ascii-art-web-dockerize",
+											"xp": 9200
+										},
+										{
+											"id": 101781,
+											"name": "ascii-art-web-export-file",
+											"xp": 9200
+										},
+										{
+											"id": 101758,
+											"name": "net-cat",
+											"xp": 12250
+										},
+										{
+											"id": 101783,
+											"name": "groupie-tracker-geolocalization",
+											"xp": 12250
+										},
+										{
+											"id": 101784,
+											"name": "groupie-tracker-visualizations",
+											"xp": 12250
+										},
+										{
+											"id": 101785,
+											"name": "groupie-tracker-search-bar",
+											"xp": 12250
+										},
+										{
+											"id": 101754,
+											"name": "push-swap",
+											"xp": 18375
+										},
+										{
+											"id": 101809,
+											"name": "groupie-tracker",
+											"xp": 24500
+										},
+										{
+											"id": 101810,
+											"name": "lem-in",
+											"xp": 34375
+										},
+										{
+											"id": 101941,
+											"name": "forum",
+											"xp": 76250
+										}
+									]
+								},
+								{
+									"name": "other",
+									"tasks": [
+										{
+											"id": 101942,
+											"name": "math-skills",
+											"xp": 10000
+										}
+									]
+								},
+								{
+									"name": "c",
+									"tasks": [
+										{
+											"id": 101955,
+											"name": "atm-management-system",
+											"xp": 75250
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"personal": {
+				"id": 1254,
+				"login": "famanbaye",
+				"full_name": "Farhad AMANBAYEV",
+				"age": 34,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine23nov",
+					"color": "#A16C84"
+				},
+				"level": 17,
+				"xp_total": 223725
+			},
+			"hours": {
+
+			},
+			"journey": {
+				"Checkpoint": {
+					"events": [
+						{
+							"id": 76,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1707393660,
+								"nanos": 43637000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101975,
+											"name": "displayp",
+											"xp": 100
+										},
+										{
+											"id": 102004,
+											"name": "doop",
+											"xp": 200
+										},
+										{
+											"id": 102029,
+											"name": "switchcase",
+											"xp": 300
+										},
+										{
+											"id": 102000,
+											"name": "itoabase",
+											"xp": 400
+										},
+										{
+											"id": 102025,
+											"name": "brainfuck",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 77,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1707973260,
+								"nanos": 949835000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101977,
+											"name": "returna",
+											"xp": 100
+										},
+										{
+											"id": 101979,
+											"name": "getalpha",
+											"xp": 200
+										},
+										{
+											"id": 102026,
+											"name": "addprimesum",
+											"xp": 300
+										},
+										{
+											"id": 102001,
+											"name": "atoibase",
+											"xp": 400
+										},
+										{
+											"id": 102003,
+											"name": "options",
+											"xp": 500
+										},
+										{
+											"id": 102034,
+											"name": "sortwordarr",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 78,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1709182860,
+								"nanos": 276351000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102037,
+											"name": "ispowerof2",
+											"xp": 100
+										},
+										{
+											"id": 101964,
+											"name": "bezero",
+											"xp": 200
+										},
+										{
+											"id": 102026,
+											"name": "addprimesum",
+											"xp": 300
+										},
+										{
+											"id": 102001,
+											"name": "atoibase",
+											"xp": 400
+										},
+										{
+											"id": 102025,
+											"name": "brainfuck",
+											"xp": 500
+										},
+										{
+											"id": 102034,
+											"name": "sortwordarr",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 79,
+							"name": "Checkpoint",
+							"xp_total": 2800,
+							"created_at": {
+								"seconds": 1709816460,
+								"nanos": 633059000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101995,
+											"name": "notdecimal",
+											"xp": 100
+										},
+										{
+											"id": 101969,
+											"name": "halfslice",
+											"xp": 200
+										},
+										{
+											"id": 102029,
+											"name": "switchcase",
+											"xp": 300
+										},
+										{
+											"id": 102018,
+											"name": "tabmult",
+											"xp": 400
+										},
+										{
+											"id": 102040,
+											"name": "listremoveif",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 80,
+							"name": "Checkpoint",
+							"xp_total": 2600,
+							"created_at": {
+								"seconds": 1710396060,
+								"nanos": 478231000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101974,
+											"name": "only1",
+											"xp": 100
+										},
+										{
+											"id": 101963,
+											"name": "hashcode",
+											"xp": 100
+										},
+										{
+											"id": 102008,
+											"name": "union",
+											"xp": 200
+										},
+										{
+											"id": 102001,
+											"name": "atoibase",
+											"xp": 400
+										},
+										{
+											"id": 102040,
+											"name": "listremoveif",
+											"xp": 500
+										},
+										{
+											"id": 102034,
+											"name": "sortwordarr",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				"Module": {
+					"events": [
+						{
+							"id": 66,
+							"name": "Module",
+							"xp_total": 209925,
+							"created_at": {
+								"seconds": 1707306660,
+								"nanos": 891343000
+							},
+							"languages": [
+								{
+									"name": "Go",
+									"tasks": [
+										{
+											"id": 101759,
+											"name": "go-reloaded",
+											"xp": 5000
+										},
+										{
+											"id": 101956,
+											"name": "tetris-optimizer",
+											"xp": 5000
+										},
+										{
+											"id": 101753,
+											"name": "ascii-art",
+											"xp": 6125
+										},
+										{
+											"id": 101767,
+											"name": "ascii-art-fs",
+											"xp": 6125
+										},
+										{
+											"id": 101777,
+											"name": "ascii-art-output",
+											"xp": 6125
+										},
+										{
+											"id": 101778,
+											"name": "ascii-art-justify",
+											"xp": 6125
+										},
+										{
+											"id": 101779,
+											"name": "ascii-art-reverse",
+											"xp": 6125
+										},
+										{
+											"id": 101808,
+											"name": "ascii-art-color",
+											"xp": 6125
+										},
+										{
+											"id": 101755,
+											"name": "ascii-art-web",
+											"xp": 9200
+										},
+										{
+											"id": 101756,
+											"name": "ascii-art-web-stylize",
+											"xp": 9200
+										},
+										{
+											"id": 101780,
+											"name": "ascii-art-web-dockerize",
+											"xp": 9200
+										},
+										{
+											"id": 101781,
+											"name": "ascii-art-web-export-file",
+											"xp": 9200
+										},
+										{
+											"id": 101757,
+											"name": "my-ls-1",
+											"xp": 12250
+										},
+										{
+											"id": 101758,
+											"name": "net-cat",
+											"xp": 12250
+										},
+										{
+											"id": 101782,
+											"name": "groupie-tracker-filters",
+											"xp": 12250
+										},
+										{
+											"id": 101783,
+											"name": "groupie-tracker-geolocalization",
+											"xp": 12250
+										},
+										{
+											"id": 101784,
+											"name": "groupie-tracker-visualizations",
+											"xp": 12250
+										},
+										{
+											"id": 101785,
+											"name": "groupie-tracker-search-bar",
+											"xp": 12250
+										},
+										{
+											"id": 101754,
+											"name": "push-swap",
+											"xp": 18375
+										},
+										{
+											"id": 101809,
+											"name": "groupie-tracker",
+											"xp": 24500
+										}
+									]
+								},
+								{
+									"name": "other",
+									"tasks": [
+										{
+											"id": 101942,
+											"name": "math-skills",
+											"xp": 10000
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"personal": {
+				"id": 25,
+				"login": "Akhmet_bayan",
+				"full_name": "Bayan Akhmet",
+				"age": 23,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine23sep",
+					"color": "#B15733"
+				},
+				"level": 16,
+				"xp_total": 185100
+			},
+			"hours": {
+
+			},
+			"journey": {
+				"Checkpoint": {
+					"events": [
+						{
+							"id": 76,
+							"name": "Checkpoint",
+							"xp_total": 1000,
+							"created_at": {
+								"seconds": 1707393660,
+								"nanos": 43637000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 102011,
+											"name": "reduceint",
+											"xp": 100
+										},
+										{
+											"id": 102012,
+											"name": "findprevprime",
+											"xp": 200
+										},
+										{
+											"id": 102029,
+											"name": "switchcase",
+											"xp": 300
+										},
+										{
+											"id": 102039,
+											"name": "listsize",
+											"xp": 400
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 77,
+							"name": "Checkpoint",
+							"xp_total": 300,
+							"created_at": {
+								"seconds": 1707973260,
+								"nanos": 949835000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101967,
+											"name": "reversesecondhalf",
+											"xp": 100
+										},
+										{
+											"id": 101985,
+											"name": "removeduplicate",
+											"xp": 200
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 78,
+							"name": "Checkpoint",
+							"xp_total": 1000,
+							"created_at": {
+								"seconds": 1709182860,
+								"nanos": 276351000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101975,
+											"name": "displayp",
+											"xp": 100
+										},
+										{
+											"id": 101994,
+											"name": "canyoucount",
+											"xp": 200
+										},
+										{
+											"id": 102019,
+											"name": "hiddenp",
+											"xp": 300
+										},
+										{
+											"id": 102006,
+											"name": "lastword",
+											"xp": 400
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 79,
+							"name": "Checkpoint",
+							"xp_total": 2600,
+							"created_at": {
+								"seconds": 1709816460,
+								"nanos": 633059000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101963,
+											"name": "hashcode",
+											"xp": 100
+										},
+										{
+											"id": 101972,
+											"name": "onlyf",
+											"xp": 100
+										},
+										{
+											"id": 101966,
+											"name": "iscapitalized",
+											"xp": 200
+										},
+										{
+											"id": 102006,
+											"name": "lastword",
+											"xp": 400
+										},
+										{
+											"id": 102003,
+											"name": "options",
+											"xp": 500
+										},
+										{
+											"id": 101960,
+											"name": "repeatalpha",
+											"xp": 600
+										},
+										{
+											"id": 102021,
+											"name": "rostring",
+											"xp": 700
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 80,
+							"name": "Checkpoint",
+							"xp_total": 300,
+							"created_at": {
+								"seconds": 1710396060,
+								"nanos": 478231000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101995,
+											"name": "notdecimal",
+											"xp": 100
+										},
+										{
+											"id": 102013,
+											"name": "romannumbers",
+											"xp": 200
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 81,
+							"name": "Checkpoint",
+							"xp_total": 600,
+							"created_at": {
+								"seconds": 1711630860,
+								"nanos": 93129000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101967,
+											"name": "reversesecondhalf",
+											"xp": 100
+										},
+										{
+											"id": 102027,
+											"name": "printhex",
+											"xp": 200
+										},
+										{
+											"id": 102019,
+											"name": "hiddenp",
+											"xp": 300
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				"Module": {
+					"events": [
+						{
+							"id": 66,
+							"name": "Module",
+							"xp_total": 179300,
+							"created_at": {
+								"seconds": 1707306660,
+								"nanos": 891343000
+							},
+							"languages": [
+								{
+									"name": "Go",
+									"tasks": [
+										{
+											"id": 101759,
+											"name": "go-reloaded",
+											"xp": 5000
+										},
+										{
+											"id": 101956,
+											"name": "tetris-optimizer",
+											"xp": 5000
+										},
+										{
+											"id": 101753,
+											"name": "ascii-art",
+											"xp": 6125
+										},
+										{
+											"id": 101767,
+											"name": "ascii-art-fs",
+											"xp": 6125
+										},
+										{
+											"id": 101777,
+											"name": "ascii-art-output",
+											"xp": 6125
+										},
+										{
+											"id": 101778,
+											"name": "ascii-art-justify",
+											"xp": 6125
+										},
+										{
+											"id": 101779,
+											"name": "ascii-art-reverse",
+											"xp": 6125
+										},
+										{
+											"id": 101808,
+											"name": "ascii-art-color",
+											"xp": 6125
+										},
+										{
+											"id": 101755,
+											"name": "ascii-art-web",
+											"xp": 9200
+										},
+										{
+											"id": 101756,
+											"name": "ascii-art-web-stylize",
+											"xp": 9200
+										},
+										{
+											"id": 101780,
+											"name": "ascii-art-web-dockerize",
+											"xp": 9200
+										},
+										{
+											"id": 101781,
+											"name": "ascii-art-web-export-file",
+											"xp": 9200
+										},
+										{
+											"id": 101758,
+											"name": "net-cat",
+											"xp": 12250
+										},
+										{
+											"id": 101782,
+											"name": "groupie-tracker-filters",
+											"xp": 12250
+										},
+										{
+											"id": 101783,
+											"name": "groupie-tracker-geolocalization",
+											"xp": 12250
+										},
+										{
+											"id": 101784,
+											"name": "groupie-tracker-visualizations",
+											"xp": 12250
+										},
+										{
+											"id": 101785,
+											"name": "groupie-tracker-search-bar",
+											"xp": 12250
+										},
+										{
+											"id": 101809,
+											"name": "groupie-tracker",
+											"xp": 24500
+										}
+									]
+								},
+								{
+									"name": "other",
+									"tasks": [
+										{
+											"id": 101942,
+											"name": "math-skills",
+											"xp": 10000
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"personal": {
+				"id": 1543,
+				"login": "aabdrama",
+				"full_name": "Alikhan Abdraman",
+				"age": 19,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine24jan",
+					"color": "#D2CC6B"
+				},
+				"xp_total": 200
+			},
+			"hours": {
+
+			},
+			"journey": {
+				"Checkpoint": {
+					"events": [
+						{
+							"id": 80,
+							"name": "Checkpoint",
+							"xp_total": 100,
+							"created_at": {
+								"seconds": 1710396060,
+								"nanos": 478231000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101992,
+											"name": "cameltosnakecase",
+											"xp": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 81,
+							"name": "Checkpoint",
+							"xp_total": 100,
+							"created_at": {
+								"seconds": 1711630860,
+								"nanos": 93129000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101975,
+											"name": "displayp",
+											"xp": 100
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"personal": {
+				"id": 341,
+				"login": "aabdykal",
+				"full_name": "Alnur Abdykalykov",
+				"age": 21,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine23sep",
+					"color": "#B15733"
+				}
+			},
+			"hours": {
+
+			}
+		},
+		{
+			"personal": {
+				"id": 1181,
+				"login": "tyergazy",
+				"full_name": "Temirlan Yergazyuly",
+				"age": 23,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine23nov / piscine24jan",
+					"color": "#D2CC6B"
+				},
+				"xp_total": 200
+			},
+			"hours": {
+
+			},
+			"journey": {
+				"Checkpoint": {
+					"events": [
+						{
+							"id": 79,
+							"name": "Checkpoint",
+							"xp_total": 100,
+							"created_at": {
+								"seconds": 1709816460,
+								"nanos": 633059000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101974,
+											"name": "only1",
+											"xp": 100
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": 80,
+							"name": "Checkpoint",
+							"xp_total": 100,
+							"created_at": {
+								"seconds": 1710396060,
+								"nanos": 478231000
+							},
+							"languages": [
+								{
+									"name": "go",
+									"tasks": [
+										{
+											"id": 101975,
+											"name": "displayp",
+											"xp": 100
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"personal": {
+				"id": 600,
+				"login": "ukabdoll",
+				"full_name": "Uristem  Kabdolla",
+				"age": 22,
+				"gender": "Male",
+				"admission": {
+					"name": "piscine23sep",
+					"color": "#B15733"
+				}
+			},
+			"hours": {
+
+			}
+		}
+	]
+}

@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS excel_table.table_queue;

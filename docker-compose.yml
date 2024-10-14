@@ -1,0 +1,42 @@
+# version: '3.8'
+
+services:
+  academ_stats:
+    build: 
+      context: ./academ_stats
+      dockerfile: Dockerfile
+    image: academ_stats_image
+    container_name: academ_stats_container
+    restart: always
+    environment:
+      PORT: ${API_PORT}
+      DATABASE_URL: ${STATS_DATABASE_URL}
+      ZERO_DOMAIN: zero.academie.one
+      ZERO_TOKEN: ${ZERO_TOKEN}
+      E_SRV_ADDR: ${EXCEL_SRV_ADDR}
+      E_SRV_PORT: ${EXCEL_SRV_PORT}
+      S_SRV_ADDR: ${SESSION_SRV_ADDR}
+      S_SRV_PORT: ${SESSION_SRV_PORT}
+      REQ_LOG: ${REQ_LOG}
+    ports:
+      - "9595:8585"
+    networks:
+      - grpc_network
+
+  excel_table:
+    build: 
+      context: ./excel_table
+      dockerfile: Dockerfile
+    image: excel_table_image
+    container_name: excel_table_container
+    restart: always
+    environment:
+      DATABASE_URL: ${EXCEL_DATABASE_URL}
+      PORT: ${EXCEL_SRV_PORT}
+      REQ_LOG: ${REQ_LOG}
+    networks:
+      - grpc_network
+
+networks:
+  grpc_network:
+    driver: bridge

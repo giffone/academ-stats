@@ -1,0 +1,42 @@
+{
+	"634": {
+		"Total": 200,
+		"Month": [
+			{
+				"Year": "2024",
+				"Month": "january",
+				"Hours": 50
+			},
+			{
+				"Year": "2024",
+				"Month": "february",
+				"Hours": 50
+			},
+			{
+				"Year": "2024",
+				"Month": "march",
+				"Hours": 50
+			},
+			{
+				"Year": "2024",
+				"Month": "may",
+				"Hours": 50
+			}
+		]
+	},
+	"870": {
+		"Total": 100,
+		"Month": [
+			{
+				"Year": "2024",
+				"Month": "january",
+				"Hours": 50
+			},
+			{
+				"Year": "2024",
+				"Month": "february",
+				"Hours": 50
+			}
+		]
+	}
+}

@@ -1,0 +1,3763 @@
+{
+	"cadets": [
+		{
+			"userId": 870,
+			"login": "aabdikha",
+			"level": 21,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "Abdikhalyk",
+					"firstName": "Aibek",
+					"dateOfBirth": "2001-04-19T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 23
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": 407650
+						}
+					},
+					"paths": [
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101759,
+									"pathName": "go-reloaded",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101943,
+									"pathName": "guess-it-1",
+									"language": null
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101956,
+									"pathName": "tetris-optimizer",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101753,
+									"pathName": "ascii-art",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101767,
+									"pathName": "ascii-art-fs",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101777,
+									"pathName": "ascii-art-output",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101778,
+									"pathName": "ascii-art-justify",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101779,
+									"pathName": "ascii-art-reverse",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101808,
+									"pathName": "ascii-art-color",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101755,
+									"pathName": "ascii-art-web",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101756,
+									"pathName": "ascii-art-web-stylize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101780,
+									"pathName": "ascii-art-web-dockerize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101781,
+									"pathName": "ascii-art-web-export-file",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 10000,
+							"path": {
+								"attrs": {
+									"id": 101942,
+									"pathName": "math-skills",
+									"language": null
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101758,
+									"pathName": "net-cat",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101782,
+									"pathName": "groupie-tracker-filters",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101783,
+									"pathName": "groupie-tracker-geolocalization",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101784,
+									"pathName": "groupie-tracker-visualizations",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101785,
+									"pathName": "groupie-tracker-search-bar",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 18375,
+							"path": {
+								"attrs": {
+									"id": 101754,
+									"pathName": "push-swap",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 19100,
+							"path": {
+								"attrs": {
+									"id": 101948,
+									"pathName": "forum-authentication",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 24500,
+							"path": {
+								"attrs": {
+									"id": 101809,
+									"pathName": "groupie-tracker",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 34375,
+							"path": {
+								"attrs": {
+									"id": 101810,
+									"pathName": "lem-in",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 75250,
+							"path": {
+								"attrs": {
+									"id": 101955,
+									"pathName": "atm-management-system",
+									"language": "c"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 76250,
+							"path": {
+								"attrs": {
+									"id": 101941,
+									"pathName": "forum",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						}
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": 14100
+						}
+					},
+					"paths": [
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102037,
+									"pathName": "ispowerof2",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101971,
+									"pathName": "swaplast",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102016,
+									"pathName": "paramcount",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102006,
+									"pathName": "lastword",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102023,
+									"pathName": "rpncalc",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102037,
+									"pathName": "ispowerof2",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102011,
+									"pathName": "reduceint",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101991,
+									"pathName": "replaceeven",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 101961,
+									"pathName": "retainfirsthalf",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102006,
+									"pathName": "lastword",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102023,
+									"pathName": "rpncalc",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101965,
+									"pathName": "setspace",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102007,
+									"pathName": "inter",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 101987,
+									"pathName": "sumthemall",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102000,
+									"pathName": "itoabase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102023,
+									"pathName": "rpncalc",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102028,
+									"pathName": "wdmatch",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102022,
+									"pathName": "revwstr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 101998,
+									"pathName": "expandstr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102001,
+									"pathName": "atoibase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102025,
+									"pathName": "brainfuck",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102009,
+									"pathName": "max",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 82,
+								"createdAt": "2024-04-04T06:01:00.487191+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102022,
+									"pathName": "revwstr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 82,
+								"createdAt": "2024-04-04T06:01:00.487191+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102019,
+									"pathName": "hiddenp",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 82,
+								"createdAt": "2024-04-04T06:01:00.487191+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102006,
+									"pathName": "lastword",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 82,
+								"createdAt": "2024-04-04T06:01:00.487191+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102040,
+									"pathName": "listremoveif",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 82,
+								"createdAt": "2024-04-04T06:01:00.487191+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 102034,
+									"pathName": "sortwordarr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 82,
+								"createdAt": "2024-04-04T06:01:00.487191+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 82,
+								"createdAt": "2024-04-04T06:01:00.487191+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						}
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		},
+		{
+			"userId": 634,
+			"login": "aolzhass",
+			"level": 21,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "Olzhassov",
+					"firstName": "Akhmediyar ",
+					"dateOfBirth": "2003-09-05T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 23
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": 371300
+						}
+					},
+					"paths": [
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101759,
+									"pathName": "go-reloaded",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101956,
+									"pathName": "tetris-optimizer",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101753,
+									"pathName": "ascii-art",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101767,
+									"pathName": "ascii-art-fs",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101777,
+									"pathName": "ascii-art-output",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101778,
+									"pathName": "ascii-art-justify",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101779,
+									"pathName": "ascii-art-reverse",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101808,
+									"pathName": "ascii-art-color",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101755,
+									"pathName": "ascii-art-web",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101756,
+									"pathName": "ascii-art-web-stylize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101780,
+									"pathName": "ascii-art-web-dockerize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101781,
+									"pathName": "ascii-art-web-export-file",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 10000,
+							"path": {
+								"attrs": {
+									"id": 101942,
+									"pathName": "math-skills",
+									"language": null
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101758,
+									"pathName": "net-cat",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101783,
+									"pathName": "groupie-tracker-geolocalization",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101784,
+									"pathName": "groupie-tracker-visualizations",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101785,
+									"pathName": "groupie-tracker-search-bar",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 18375,
+							"path": {
+								"attrs": {
+									"id": 101754,
+									"pathName": "push-swap",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 24500,
+							"path": {
+								"attrs": {
+									"id": 101809,
+									"pathName": "groupie-tracker",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 34375,
+							"path": {
+								"attrs": {
+									"id": 101810,
+									"pathName": "lem-in",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 75250,
+							"path": {
+								"attrs": {
+									"id": 101955,
+									"pathName": "atm-management-system",
+									"language": "c"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 76250,
+							"path": {
+								"attrs": {
+									"id": 101941,
+									"pathName": "forum",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						}
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": 5600
+						}
+					},
+					"paths": [
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102028,
+									"pathName": "wdmatch",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102004,
+									"pathName": "doop",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102014,
+									"pathName": "foldint",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102001,
+									"pathName": "atoibase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102003,
+									"pathName": "options",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101992,
+									"pathName": "cameltosnakecase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102010,
+									"pathName": "chunk",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102016,
+									"pathName": "paramcount",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102018,
+									"pathName": "tabmult",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102023,
+									"pathName": "rpncalc",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 102034,
+									"pathName": "sortwordarr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						}
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		},
+		{
+			"userId": 1254,
+			"login": "famanbaye",
+			"level": 17,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "AMANBAYEV",
+					"firstName": "Farhad",
+					"dateOfBirth": "1989-06-06T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 41
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": 209925
+						}
+					},
+					"paths": [
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101759,
+									"pathName": "go-reloaded",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101956,
+									"pathName": "tetris-optimizer",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101753,
+									"pathName": "ascii-art",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101767,
+									"pathName": "ascii-art-fs",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101777,
+									"pathName": "ascii-art-output",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101778,
+									"pathName": "ascii-art-justify",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101779,
+									"pathName": "ascii-art-reverse",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101808,
+									"pathName": "ascii-art-color",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101755,
+									"pathName": "ascii-art-web",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101756,
+									"pathName": "ascii-art-web-stylize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101780,
+									"pathName": "ascii-art-web-dockerize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101781,
+									"pathName": "ascii-art-web-export-file",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 10000,
+							"path": {
+								"attrs": {
+									"id": 101942,
+									"pathName": "math-skills",
+									"language": null
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101757,
+									"pathName": "my-ls-1",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101758,
+									"pathName": "net-cat",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101782,
+									"pathName": "groupie-tracker-filters",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101783,
+									"pathName": "groupie-tracker-geolocalization",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101784,
+									"pathName": "groupie-tracker-visualizations",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101785,
+									"pathName": "groupie-tracker-search-bar",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 18375,
+							"path": {
+								"attrs": {
+									"id": 101754,
+									"pathName": "push-swap",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 24500,
+							"path": {
+								"attrs": {
+									"id": 101809,
+									"pathName": "groupie-tracker",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						}
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": 13800
+						}
+					},
+					"paths": [
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101975,
+									"pathName": "displayp",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102004,
+									"pathName": "doop",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102029,
+									"pathName": "switchcase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102000,
+									"pathName": "itoabase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102025,
+									"pathName": "brainfuck",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101977,
+									"pathName": "returna",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101979,
+									"pathName": "getalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102026,
+									"pathName": "addprimesum",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102001,
+									"pathName": "atoibase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102003,
+									"pathName": "options",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 102034,
+									"pathName": "sortwordarr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102037,
+									"pathName": "ispowerof2",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101964,
+									"pathName": "bezero",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102026,
+									"pathName": "addprimesum",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102001,
+									"pathName": "atoibase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102025,
+									"pathName": "brainfuck",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 102034,
+									"pathName": "sortwordarr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101995,
+									"pathName": "notdecimal",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101969,
+									"pathName": "halfslice",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102029,
+									"pathName": "switchcase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102018,
+									"pathName": "tabmult",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102040,
+									"pathName": "listremoveif",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101974,
+									"pathName": "only1",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101963,
+									"pathName": "hashcode",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102008,
+									"pathName": "union",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102001,
+									"pathName": "atoibase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102040,
+									"pathName": "listremoveif",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 102034,
+									"pathName": "sortwordarr",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						}
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		},
+		{
+			"userId": 25,
+			"login": "Akhmet_bayan",
+			"level": 16,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "Akhmet",
+					"firstName": "Bayan",
+					"dateOfBirth": "2000-08-10T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 23
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": 179300
+						}
+					},
+					"paths": [
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101759,
+									"pathName": "go-reloaded",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 5000,
+							"path": {
+								"attrs": {
+									"id": 101956,
+									"pathName": "tetris-optimizer",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101753,
+									"pathName": "ascii-art",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101767,
+									"pathName": "ascii-art-fs",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101777,
+									"pathName": "ascii-art-output",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101778,
+									"pathName": "ascii-art-justify",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101779,
+									"pathName": "ascii-art-reverse",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 6125,
+							"path": {
+								"attrs": {
+									"id": 101808,
+									"pathName": "ascii-art-color",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101755,
+									"pathName": "ascii-art-web",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101756,
+									"pathName": "ascii-art-web-stylize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101780,
+									"pathName": "ascii-art-web-dockerize",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 9200,
+							"path": {
+								"attrs": {
+									"id": 101781,
+									"pathName": "ascii-art-web-export-file",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 10000,
+							"path": {
+								"attrs": {
+									"id": 101942,
+									"pathName": "math-skills",
+									"language": null
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101758,
+									"pathName": "net-cat",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101782,
+									"pathName": "groupie-tracker-filters",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101783,
+									"pathName": "groupie-tracker-geolocalization",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101784,
+									"pathName": "groupie-tracker-visualizations",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 12250,
+							"path": {
+								"attrs": {
+									"id": 101785,
+									"pathName": "groupie-tracker-search-bar",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						},
+						{
+							"xp": 24500,
+							"path": {
+								"attrs": {
+									"id": 101809,
+									"pathName": "groupie-tracker",
+									"language": "Go"
+								}
+							},
+							"event": {
+								"registrationId": 66,
+								"createdAt": "2024-02-07T11:51:00.891343+00:00",
+								"object": {
+									"eventName": "Module"
+								}
+							}
+						}
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": 5800
+						}
+					},
+					"paths": [
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 102011,
+									"pathName": "reduceint",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102012,
+									"pathName": "findprevprime",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102029,
+									"pathName": "switchcase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102039,
+									"pathName": "listsize",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 76,
+								"createdAt": "2024-02-08T12:01:00.043637+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101967,
+									"pathName": "reversesecondhalf",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101985,
+									"pathName": "removeduplicate",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 77,
+								"createdAt": "2024-02-15T05:01:00.949835+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101975,
+									"pathName": "displayp",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101994,
+									"pathName": "canyoucount",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102019,
+									"pathName": "hiddenp",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102006,
+									"pathName": "lastword",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 78,
+								"createdAt": "2024-02-29T05:01:00.276351+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101963,
+									"pathName": "hashcode",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101972,
+									"pathName": "onlyf",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 101966,
+									"pathName": "iscapitalized",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 400,
+							"path": {
+								"attrs": {
+									"id": 102006,
+									"pathName": "lastword",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 500,
+							"path": {
+								"attrs": {
+									"id": 102003,
+									"pathName": "options",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 600,
+							"path": {
+								"attrs": {
+									"id": 101960,
+									"pathName": "repeatalpha",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 700,
+							"path": {
+								"attrs": {
+									"id": 102021,
+									"pathName": "rostring",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101995,
+									"pathName": "notdecimal",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102013,
+									"pathName": "romannumbers",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101967,
+									"pathName": "reversesecondhalf",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 200,
+							"path": {
+								"attrs": {
+									"id": 102027,
+									"pathName": "printhex",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 300,
+							"path": {
+								"attrs": {
+									"id": 102019,
+									"pathName": "hiddenp",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						}
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		},
+		{
+			"userId": 1543,
+			"login": "aabdrama",
+			"level": 0,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "Abdraman",
+					"firstName": "Alikhan",
+					"dateOfBirth": "2005-02-08T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 49
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": 200
+						}
+					},
+					"paths": [
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101992,
+									"pathName": "cameltosnakecase",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101975,
+									"pathName": "displayp",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 81,
+								"createdAt": "2024-03-28T13:01:00.093129+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						}
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		},
+		{
+			"userId": 341,
+			"login": "aabdykal",
+			"level": 0,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "Abdykalykov",
+					"firstName": "Alnur",
+					"dateOfBirth": "2002-06-01T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 23
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		},
+		{
+			"userId": 1181,
+			"login": "tyergazy",
+			"level": 0,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "Yergazyuly",
+					"firstName": "Temirlan",
+					"dateOfBirth": "2000-07-27T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 41
+					},
+					{
+						"admission": 49
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": 200
+						}
+					},
+					"paths": [
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101974,
+									"pathName": "only1",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 79,
+								"createdAt": "2024-03-07T13:01:00.633059+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						},
+						{
+							"xp": 100,
+							"path": {
+								"attrs": {
+									"id": 101975,
+									"pathName": "displayp",
+									"language": "go"
+								}
+							},
+							"event": {
+								"registrationId": 80,
+								"createdAt": "2024-03-14T06:01:00.478231+00:00",
+								"object": {
+									"eventName": "Checkpoint"
+								}
+							}
+						}
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		},
+		{
+			"userId": 600,
+			"login": "ukabdoll",
+			"level": 0,
+			"user": {
+				"attrs": {
+					"gender": "Male",
+					"lastName": "Kabdolla",
+					"firstName": "Uristem ",
+					"dateOfBirth": "2001-06-15T00:00:00.000Z"
+				},
+				"registrations": [
+					{
+						"admission": 23
+					}
+				]
+			},
+			"journey": {
+				"module": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				},
+				"checkpoint": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				},
+				"piscine": {
+					"xpTotal": {
+						"sum": {
+							"total": null
+						}
+					},
+					"paths": [
+
+					]
+				}
+			}
+		}
+	]
+}

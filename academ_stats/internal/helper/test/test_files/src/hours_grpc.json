@@ -1,0 +1,46 @@
+{
+	"cadets": [
+		{
+			"id": 870,
+			"total": 100,
+			"month": [
+				{
+					"year": "2024",
+					"month": 1,
+					"hours": 50
+				},
+				{
+					"year": "2024",
+					"month": 2,
+					"hours": 50
+				}
+			]
+		},
+		{
+			"id": 634,
+			"total": 200,
+			"month": [
+				{
+					"year": "2024",
+					"month": 1,
+					"hours": 50
+				},
+				{
+					"year": "2024",
+					"month": 2,
+					"hours": 50
+				},
+				{
+					"year": "2024",
+					"month": 3,
+					"hours": 50
+				},
+				{
+					"year": "2024",
+					"month": 5,
+					"hours": 50
+				}
+			]
+		}
+	]
+}

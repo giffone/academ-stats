@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS academ_stats.snapshot;

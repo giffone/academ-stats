@@ -1,0 +1,55 @@
+{
+    "go": {
+      "Title": "Go",
+      "Queue": 0
+    },
+    "golang": {
+      "Title": "Go",
+      "Queue": 0
+    },
+    "GO": {
+      "Title": "Go",
+      "Queue": 0
+    },
+    "Go": {
+      "Title": "Go",
+      "Queue": 0
+    },
+    "Golang": {
+      "Title": "Go",
+      "Queue": 0
+    },
+    "js": {
+      "Title": "Js",
+      "Queue": 1
+    },
+    "Js": {
+      "Title": "Js",
+      "Queue": 1
+    },
+    "javascript": {
+      "Title": "Js",
+      "Queue": 1
+    },
+    "JavaScript": {
+      "Title": "Js",
+      "Queue": 1
+    },
+    "": {
+      "Title": "other",
+      "Queue": 1000
+    },
+    "rust": {
+      "Title": "Rust",
+      "Queue": 2
+    },
+    "c": {
+      "Title": "C",
+      "Queue": 3
+    },
+    "C": {
+      "Title": "C",
+      "Queue": 3
+    }
+  }
+  
